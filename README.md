@@ -47,5 +47,7 @@ property testing lower bounds via communication complexity
 ```
 
 Graphs clusters look like the following: 
+
+
 ![Graph cluster](cluster.png)
 
